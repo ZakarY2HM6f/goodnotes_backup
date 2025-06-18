@@ -2,6 +2,12 @@
 
 a tool for backing up GoodNotes notes as pdf files on Windows/Web version
 
+## Requirements
+
+- Python 3
+- ChromeDriver
+- Chrome (for obvious reasons)
+
 ## Install
 
 ```console
